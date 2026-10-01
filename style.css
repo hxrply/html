@@ -138,3 +138,22 @@ body {
   text-align: center;
   padding: 10px;
 }
+
+.footer-links {
+  margin: 0 0 6px 0;
+}
+
+.footer-links a {
+  color: white;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+
+/* Links inside the page text */
+.content p a,
+.content li a {
+  color: #1f4fa0;
+}
